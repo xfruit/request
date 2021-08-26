@@ -1,5 +1,5 @@
 {
-  "name": "request",
+  "name": "irequest",
   "description": "Simplified HTTP request client.",
   "keywords": [
     "http",
@@ -7,7 +7,7 @@
     "util",
     "utility"
   ],
-  "version": "2.88.1",
+  "version": "2.88.1-beta",
   "author": "Mikeal Rogers <mikeal.rogers@gmail.com>",
   "repository": {
     "type": "git",
